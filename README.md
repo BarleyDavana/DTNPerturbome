@@ -1,6 +1,6 @@
 # DTNPerturbome
 <h1>
-Identification of drug candidates for Multiple Sclerosis by the network-based module identification and perturbation analysis
+Perturbation response scanning of drug-target networks: Drug repurposing for multiple sclerosis
 </h1>
 
 <p align="center">
